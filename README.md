@@ -21,7 +21,7 @@
 ---
 
 ### ✌️👩‍💻 About Me :
-I am a sophoremore, majoring in Computer Science at Drexel.
+I am a sophormore, majoring in Computer Science at Drexel.
 
 - 🌱  I’m currently working at a nonprofit called Sharing Excess
 - 💬 Ask me about programming, video games, keyboards and art
