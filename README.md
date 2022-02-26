@@ -20,13 +20,13 @@
 
 ---
 
-### 💻 About Me :
+### ✌️👩‍💻 About Me :
 I am a sophoremore, majoring in Computer Science at Drexel.
 
-- 🌱  I’m currently working on ...
-- 💬 Ask me about ...
+- 🌱  I’m currently working at a nonprofit called Sharing Excess
+- 💬 Ask me about programming, video games, keyboards and art
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm Vietnamese !
 
 ---
 
@@ -52,7 +52,7 @@ I am a sophoremore, majoring in Computer Science at Drexel.
 
 ---
 
-### :writing_hand: Blog Posts :
+<!-- ### :writing_hand: Blog Posts : -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
